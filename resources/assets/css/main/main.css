@@ -1,10 +1,10 @@
 .l-main-bg {
-    background-color: #F9E6D3;
+    background-color: #FFFBF0;
     padding: 15rem 0 10rem;
 }
 
 #wrap {
-    background: #FBF5F0;
+    background: #FFFBF0;
 }
 
 .con_wrap {
@@ -21,7 +21,7 @@
     text-align: center;
     font-size: 5.5rem;
     font-weight: 700;
-    color: #000;
+    color: #1c3879;
     font-family: 'Rubik', 'NanumSquareRound', 'Noto Sans KR', sans-serif;
 }
 
@@ -30,7 +30,7 @@
     text-align: center;
     font-size: 5.5rem;
     font-weight: 700;
-    color: #000;
+    color: #1c3879;
     font-family: 'Rubik', 'NanumSquareRound', 'Noto Sans KR', sans-serif;
 }
 
@@ -81,11 +81,11 @@
 
 .main-box .goobne-text p,
 .main-box .goobne-text span {
-    color: #D4000B;
+    color: #1c3879;
     font-size: 9rem;
     font-weight: 700;
     font-family: 'Rubik';
-    -webkit-text-stroke: 1px #d4000b;
+    -webkit-text-stroke: 1px #1c3879;
 }
 
 .main-box .goobne-text .mid,
@@ -95,11 +95,11 @@
 
 .main-box .goobne-text.line p,
 .main-box .goobne-text.line span {
-    color: #FBF5F0;
+    color: #FFFBF0;
     font-size:9rem;
     font-weight: 700;
     font-family: 'Rubik';
-    -webkit-text-stroke: 2px #d4000b;
+    -webkit-text-stroke: 2px #1c3879;
 }
 
 
@@ -112,7 +112,7 @@
     font-size: inherit;
     font-weight: inherit;
     width: 100%;
-    -webkit-text-stroke: 1px #D4000B;
+    -webkit-text-stroke: 1px #1c3879;
     color: transparent;
     white-space: pre;
 } */
@@ -158,7 +158,7 @@
     width: 19.5rem;
     height: 6.3rem;
     background: #CCF180;
-    border: 2px solid #000;
+    border: 2px solid #1c3879;
     box-sizing: border-box;
     font-size: 3.2rem;
     font-weight: 700;
@@ -259,7 +259,7 @@
     position: absolute;
     top: -4.5rem;
     left: 0rem;
-    color: #D4000B;
+    color: #1c3879;
     font-family: 'Rubik';
 }
 
@@ -276,9 +276,9 @@
     display: block;
     margin: 0;
     padding: 0;
-    border: 2px solid #000;
+    border: 2px solid #1c3879;
     box-sizing: border-box;
-    color: #000;
+    color: #1c3879;
     font-size: 1.6rem;
     font-weight: 700;
     border-radius: 50%;
@@ -299,7 +299,7 @@
 }
 
 .main-box .goobne-btn-box button.order {
-    background: #D4000B;
+    background: #1c3879;
 }
 
 .main-box .goobne-btn-box button.order span {
@@ -314,7 +314,7 @@
 
 .main-box .goobne-btn-box button.coupon span {
     background: url(../../images/common/e_coupon.svg) top 3.7rem center no-repeat;
-    color: #D4000B;
+    color: #1c3879;
 }
 
 .main-box .goobne-btn-box button.universe_go span {
@@ -324,7 +324,7 @@
 
 .main-box .menu-text {
     font-size: 8.5rem;
-    color: #000;
+    color: #1c3879;
     text-align: center;
     font-weight: 700;
     font-family: 'Rubik', 'NanumSquareRound', 'Noto Sans KR', sans-serif;
@@ -368,7 +368,7 @@
 }
 
 .menu-box .menu-list-wrap .menu-list .menu-img {
-    border: 2px solid #000;
+    border: 2px solid #1c3879;
     box-sizing: border-box;
     border-radius: 1rem;
     overflow: hidden;
@@ -454,14 +454,14 @@
 }
 /* //230130 수정 */
 .event-list-wrap .event-list {
-    border-top: 1px solid #050000;
+    border-top: 1px solid #051c38790;
     box-sizing: border-box;
     padding: 5rem 0;
     position: relative;
     cursor: pointer;
 }
 .event-list-wrap .event-list:hover {
-    background: #000;
+    background: #1c3879;
 }
 
 .event-list-wrap .event-list:hover .event-title .main-text {
@@ -479,7 +479,7 @@
 }
 
 .event-list-wrap .event-list:last-child {
-    border-bottom: 1px solid #050000;
+    border-bottom: 1px solid #051c38790;
 }
 
 .event-list-wrap .event-list.on {
@@ -487,7 +487,7 @@
 }
 
 .event-list-wrap .event-list.on:hover {
-    background: url(../../images/common/list-arrow.svg) center right 4.5rem no-repeat #000;
+    background: url(../../images/common/list-arrow.svg) center right 4.5rem no-repeat #1c3879;
 }
 
 .event-list-wrap .event-list .half {
@@ -515,14 +515,14 @@
 
 .event-list-wrap .event-list .event-title .sub {
     font-size: 2rem;
-    color: #000;
+    color: #1c3879;
     margin-top: 4px;
 }
 
 .event-list-wrap .event-list .event-title .main-text {
     font-size: 3.6rem;
     font-weight: 700;
-    color: #000;
+    color: #1c3879;
     width: 90%;
     overflow: hidden;
     white-space: nowrap;
@@ -538,7 +538,7 @@
     opacity: 0;
     z-index: 1;
     transition: all 0.3s;
-    border:2px solid #000;
+    border:2px solid #1c3879;
     border-radius: 10px;
 }
 .event-list-wrap .event-list .event-img img{border-radius:7px;}
@@ -560,7 +560,7 @@
 }
 
 .goobster-box .img {
-    border: 2px solid #000;
+    border: 2px solid #1c3879;
     box-sizing: border-box;
 }
 
@@ -599,8 +599,8 @@
     justify-content: center;
     width: 100%;
     height: 9rem;
-    border-top: 1px solid #050000;
-    border-bottom: 1px solid #050000;
+    border-top: 1px solid #051c38790;
+    border-bottom: 1px solid #051c38790;
     box-sizing: border-box;
     margin-top: 9rem;
 }
@@ -620,7 +620,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #000;
+    color: #1c3879;
     font-size: 3.2rem;
     font-family: 'Rubik', 'NanumSquareRound', 'Noto Sans KR', sans-serif;
     font-weight: 600;
@@ -687,7 +687,7 @@
 
 .goobne-tv-box .goobne-tv-wrap .img-box a {
     display: block;
-    border: 2px solid #000;
+    border: 2px solid #1c3879;
     box-sizing: border-box;
 }
 
@@ -1088,7 +1088,7 @@
     }
 
     .main-box .goobne-btn-box button + button {
-        border-top: 2px solid #000;
+        border-top: 2px solid #1c3879;
         border-left: none;
     }
 
@@ -1143,7 +1143,7 @@
         height: 5rem;
         font-size: 2rem;
         box-shadow: 3px 3px 0 rgba(0, 0, 0, 1);
-        border: 1px solid #000;
+        border: 1px solid #1c3879;
     }
 
     .main-box .goobne-bg .goobne-menu-btn.btn1:hover {
@@ -1197,7 +1197,7 @@
     }
 
     .event-list-wrap .event-list {
-        border-top: 1px solid #050000;
+        border-top: 1px solid #051c38790;
         padding:0;
         display: flex;
         align-items: center;
@@ -1439,7 +1439,7 @@
     .main-box .goobne-text.line p,
     .main-box .goobne-text.line span {
         font-size: 4rem;
-        -webkit-text-stroke: 1.5px #d4000b;
+        -webkit-text-stroke: 1.5px #1c3879;
     }
 
 
@@ -1447,7 +1447,7 @@
         width: 110px;
         height: 36px;
         font-size: 12px;
-        color:#000;
+        color:#1c3879;
     }
 
     .main-box .goobne-bg .goobne-btn.btn1 {
@@ -1485,7 +1485,7 @@
         width: 10rem;
         height: 3.1rem;
         font-size: 1.3rem;
-        color:#000 !important;
+        color:#1c3879 !important;
     }
 
     .main-box .goobne-bg .goobne-menu-btn.btn1 {
@@ -1590,7 +1590,7 @@
     }
 
     .goobster-box .img {
-        border: 1px solid #000
+        border: 1px solid #1c3879
     }
 
     .goobne-slider {
@@ -1643,7 +1643,7 @@
     width: 25px;
     height: 25px;
     background-color: #fff;
-    border:6px solid #D60018;
+    border:6px solid #FF7676;
 }
 .main-vi-wrap .slick-dots li button{
     display: none;
@@ -1658,7 +1658,7 @@
     .main-vi-wrap .slick-dots li.slick-active{
         width: 21px;
         height: 21px;
-        border:4px solid #D60018;
+        border:4px solid #FF7676;
     }
 	.main-box .goobne-btn-box button.universe_go span{padding-top:3.7rem;}
 }
